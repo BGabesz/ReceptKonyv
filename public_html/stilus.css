@@ -1,0 +1,29 @@
+@charset "utf-8";
+main{
+    width: 100%;
+    max-width: 1000px;
+    margin:auto;
+/*    background: #999900;*/
+}
+man, footer, header, article, section, div{
+    border: 1px solid lightblue;
+    padding:5px;
+}
+table,td,th{
+    border:1px solid blue;
+    border-collapse: collapse;
+}
+section{
+    display: grid;
+    grid-template-columns: 50px auto 50px;
+}
+footer{
+    text-align:center;
+    background:lightgreen;
+}
+.hatterszin{
+    background-color: lime;
+}
+#kepkep0 ,#kepkep1 #kepkep1 {
+    
+}
